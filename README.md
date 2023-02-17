@@ -3,5 +3,5 @@ My Personal ZShell Setup
 
 ## Just run with:
 ```
-sh setup.sh
+./setup.sh
 ```
