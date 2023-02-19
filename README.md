@@ -1,7 +1,19 @@
-# Chad-ZShell-Setup
-My Personal ZShell Setup
+# Kaley's Chad-ZShell-Setup
 
-## Just run with:
+## Install
+
+### Dependencies
+
+- `zsh` The Z shell.
+- `exa` A ls replacement.
+
 ```
-./setup.sh
+git clone https://github.com/DRAGONTOS/Chad-ZShell-Setup.git
+cd Chad-ZShell-Setup
+bash setup.sh
 ```
+
+## License
+
+Chad-ZShell-Setup is free/libre software. This program is released under the GPLv3
+license, which you can find in the file [LICENSE](LICENSE).
