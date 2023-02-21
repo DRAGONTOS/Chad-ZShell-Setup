@@ -49,6 +49,13 @@ sudo mkdir /usr/share/zsh/plugins
 git clone https://github.com/zdharma-continuum/fast-syntax-highlighting.git
 sudo mv fast-syntax-highlighting /usr/share/zsh/plugins/
 #
+# Fun part 
+echo ""
+echo "Setting up pfetch (based neofetch alt.)"
+read -n 1 -t .7
+git clone https://github.com/dylanaraps/pfetch.git
+cd pfetch && sudo make install && cd ..
+#
 # Setting zsh default shell
 echo ""
 echo "Setting zsh default shell."
