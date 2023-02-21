@@ -6,6 +6,7 @@
 
 - `zsh` The Z shell.
 - `exa` A ls replacement.
+- `pfetch` less bloated neofetch.
 
 ```
 git clone https://github.com/DRAGONTOS/Chad-ZShell-Setup.git
